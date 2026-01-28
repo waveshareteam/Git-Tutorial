@@ -22,3 +22,5 @@
 示例：- [Wulu](https://github.com/eMUQI) 已学习 - 2026-01-27
 请仅添加打卡记录，其他修改不会被合并
 --> 
+
+- [Wulu](https://github.com/eMUQI) 已学习 - 2026-01-28
