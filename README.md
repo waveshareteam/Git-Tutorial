@@ -22,3 +22,5 @@
 示例：- [Waveshare-wulu](https://github.com/Waveshare-wulu) 已学习 - 2026-03-18
 请仅添加打卡记录，其他修改不会被合并
 --> 
+
+- [Waveshare-wulu](https://github.com/Waveshare-wulu) 已学习 - 2026-03-18
