@@ -1,10 +1,10 @@
 # Git-Tutorial 
 
-微雪 Git 入门教程，敬请期待...
+微雪 Git 入门教程，针对初学者，旨在帮助学习者快速入门 Git 与 GitHub。
 
 ## 教程视频
 
-敬请期待...
+![视频封面](./assets/video-cover.webp)
 
 ## 如何参与
 
