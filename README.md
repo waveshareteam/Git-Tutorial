@@ -4,7 +4,9 @@
 
 ## 教程视频
 
-![视频封面](./assets/video-cover.webp)
+<a href="https://www.bilibili.com/video/BV18hAnzYEk6/">
+  <img src="./assets/video-cover.webp" width="400" />
+</a>
 
 ## 如何参与
 
