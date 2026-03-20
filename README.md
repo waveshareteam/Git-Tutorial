@@ -37,7 +37,7 @@
 
 6. 回到 GitHub，向本仓库发起 **Pull Request**
 
-<details>
+</details>
 
 > [!IMPORTANT]
 > 请仅修改「学习打卡」区域，其他内容的改动不会被合并。
