@@ -3,10 +3,8 @@
 这是[微雪 Git 入门教程](https://www.bilibili.com/video/BV18hAnzYEk6/)的配套练习仓库。如果你正在跟着视频学习，可以在这里完成 Fork → 修改 → Pull Request 的完整实战流程。
 
 <a href="https://www.bilibili.com/video/BV18hAnzYEk6/">
-  <img src="./assets/video-cover.webp" width="400" />
+  <img src="./assets/video-cover.webp" width="500" />
 </a>
-
-针对初学者，从 Git 基础概念出发，带你创建本地仓库、推送到 GitHub，再到分支管理和参与开源协作，全程使用 VS Code 演示。
 
 ## 如何参与
 
@@ -36,7 +34,8 @@
 
 6. 回到 GitHub，向本仓库发起 **Pull Request**
 
-> **注意：** 请仅修改「学习打卡」区域，其他内容的改动不会被合并。
+> [!IMPORTANT]
+> 请仅修改「学习打卡」区域，其他内容的改动不会被合并。
 
 ## 学习打卡
 
