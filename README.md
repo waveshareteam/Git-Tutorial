@@ -1,6 +1,8 @@
 # Git-Tutorial
 
-这是[微雪 Git 入门教程](https://www.bilibili.com/video/BV18hAnzYEk6/)中提到的练习仓库。如果你是跟着视频学习过来的，可以在这里跟着步骤完成 Fork → 修改 → Pull Request 的练习。
+这是 [微雪 Git 入门教程](https://www.bilibili.com/video/BV18hAnzYEk6/) 中提到的练习仓库。
+
+你可在这里跟着步骤完成 Fork → 修改 → Pull Request 的练习。
 
 <a href="https://www.bilibili.com/video/BV18hAnzYEk6/">
   <img src="./assets/video-cover.webp" width="500" />
