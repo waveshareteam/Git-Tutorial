@@ -6,10 +6,10 @@
   <img src="./assets/video-cover.webp" width="500" />
 </a>
 
-## 如何参与
+## 如何添加学习记录
 
 <details>
-<summary>练习步骤</summary>
+<summary>练习步骤（点击可展开）</summary>
 
 通过向本仓库提交 Pull Request 完成本次练习：
 
