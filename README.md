@@ -53,3 +53,4 @@
 -->
 
 - [Waveshare-wulu](https://github.com/Waveshare-wulu) 已学习 - 2026-03-18
+- [droidPOP](https://github.com/droidPOP) 已学习 - 2026-03-22
