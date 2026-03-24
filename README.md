@@ -1,10 +1,3 @@
-<!--
- * @Author: zhang liren
- * @Date: 2026-03-24 16:22:15
- * @LastEditors: 
- * @LastEditTime: 2026-03-24 16:23:55
- * @Description: 请填写简介
--->
 # Git-Tutorial
 
 这是 [微雪 Git 入门教程](https://www.bilibili.com/video/BV18hAnzYEk6/) 中提到的练习仓库。
