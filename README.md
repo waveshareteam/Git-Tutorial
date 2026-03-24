@@ -1,3 +1,10 @@
+<!--
+ * @Author: zhang liren
+ * @Date: 2026-03-24 16:22:15
+ * @LastEditors: 
+ * @LastEditTime: 2026-03-24 16:23:55
+ * @Description: 请填写简介
+-->
 # Git-Tutorial
 
 这是 [微雪 Git 入门教程](https://www.bilibili.com/video/BV18hAnzYEk6/) 中提到的练习仓库。
@@ -55,3 +62,4 @@
 - [Waveshare-wulu](https://github.com/Waveshare-wulu) 已学习 - 2026-03-18
 - [droidPOP](https://github.com/droidPOP) 已学习 - 2026-03-22
 - [litiangu](https://github.com/litiangu) 已学习 - 2026-03-22
+- [KMaster-six](https://github.com/KMaster-six) 已学习 - 2026-03-24
