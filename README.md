@@ -18,24 +18,24 @@
 1. 点击右上角 **Fork** 按钮，将仓库复制到你的账号下
 2. 克隆你 Fork 的仓库到本地
 
-   ```bash
-   git clone https://github.com/<你的用户名>/Git-Tutorial.git
-   ```
+    ```bash
+    git clone https://github.com/<你的用户名>/Git-Tutorial.git
+    ```
 
 3. 创建新分支
 
-   ```bash
-   git checkout -b add-my-record
-   ```
+    ```bash
+    git checkout -b add-my-record
+    ```
 
 4. 在下方「学习打卡」区域添加你的记录（格式见注释）
 5. 提交并推送到你的 Fork 仓库
 
-   ```bash
-   git add README.md
-   git commit -m "docs: add learning record"
-   git push origin add-my-record
-   ```
+    ```bash
+    git add README.md
+    git commit -m "docs: add learning record"
+    git push origin add-my-record
+    ```
 
 6. 回到 GitHub，向本仓库发起 **Pull Request**
 
@@ -59,3 +59,4 @@
 - [Watchingtheworld](https://github.com/Watchingtheworld) 已学习 - 2026-03-24
 - [yyyyyds-nb](https://github.com/yyyyyds-nb) 已学习 - 2026-04-03
 - [Fanstaqaq](https://github.com/Fanstaqaq) 已学习 - 2026-04-06
+- [cuac333](https://github.com/cuac333) 已学习 - 2026-04-07
