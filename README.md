@@ -61,4 +61,4 @@
 - [Fanstaqaq](https://github.com/Fanstaqaq) 已学习 - 2026-04-06
 - [cuac333](https://github.com/cuac333) 已学习 - 2026-04-07
 - [luan040](https://github.com/luan040) 已学习 - 2026-04-12
-- [Mr.Zhang](https://github.com/qinmin) 已学习 - 2026-04-16
+- [Mr.Zhang](https://github.com/1422264894) 已学习 - 2026-04-16
