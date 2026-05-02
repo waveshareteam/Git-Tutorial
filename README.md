@@ -1,5 +1,9 @@
 # Git-Tutorial
 
+dan=mn it
+damn iy
+
+
 这是 [微雪 Git 入门教程](https://www.bilibili.com/video/BV18hAnzYEk6/) 中提到的练习仓库。
 
 你可在这里跟着步骤完成 Fork → 修改 → Pull Request 的练习。
