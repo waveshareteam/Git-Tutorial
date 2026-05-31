@@ -65,4 +65,4 @@
 - [yuminwen](https://github.com/yuminwen) 已学习 - 2026-05-01
 - [cccjw0](https://github.com/cccjw0) 已学习 - 2026-05-13
 - [roc115](https://github.com/chenxi-1234) 已学习 - 2026-05-23
-- [sky33379](https://github.com/sky33379) 已学习 - 2026-05-31
+- [sky338379](https://github.com/sky338379) 已学习 - 2026-05-31
