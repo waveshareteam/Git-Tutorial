@@ -64,3 +64,6 @@
 - [Mr.Zhang](https://github.com/1422264894) 已学习 - 2026-04-16
 - [yuminwen](https://github.com/yuminwen) 已学习 - 2026-05-01
 - [dingjinqi](https://github.com/dingjinqi) 已学习 - 2026-05-12
+- [cccjw0](https://github.com/cccjw0) 已学习 - 2026-05-13
+- [roc115](https://github.com/chenxi-1234) 已学习 - 2026-05-23
+- [sky338379](https://github.com/sky338379) 已学习 - 2026-05-31
