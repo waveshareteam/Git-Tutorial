@@ -1,0 +1,51 @@
+name: Auto Reply on Merged PR
+
+on:
+  pull_request_target:
+    types:
+      - closed
+
+permissions:
+  issues: write
+  pull-requests: read
+
+jobs:
+  reply:
+    name: Reply to merged PR
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Add merged PR comment
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const marker = '<!-- merged-pr-auto-reply -->';
+            const body = [
+              marker,
+              '欢迎完成学习打卡！已合并 ✅',
+              '',
+              '学完请考虑给点赞投币收藏评论，帮助更多人找到这个教程 😄',
+            ].join('\n');
+
+            const { owner, repo } = context.repo;
+            const issue_number = context.payload.pull_request.number;
+
+            const comments = await github.paginate(github.rest.issues.listComments, {
+              owner,
+              repo,
+              issue_number,
+              per_page: 100,
+            });
+
+            if (comments.some((comment) => comment.body?.includes(marker))) {
+              core.info('Merged PR reply already exists. Skipping.');
+              return;
+            }
+
+            await github.rest.issues.createComment({
+              owner,
+              repo,
+              issue_number,
+              body,
+            });
