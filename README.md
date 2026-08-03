@@ -70,3 +70,5 @@
 - [HeyandBye](https://github.com/HeyandBye) 已学习 - 2026-06-08
 - [hhh](https://github.com/wang-puwei) 已学习 - 2026-06-13
 - [JasonKang](https://github.com/JasonKang1123) 已学习 - 2026-08-02
+- [yisifw](https://github.com/yisifw) 已学习 - 2026-08-02
+
