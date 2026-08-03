@@ -51,7 +51,7 @@
 示例：- [Waveshare-wulu](https://github.com/Waveshare-wulu) 已学习 - 2026-03-18
 请仅添加打卡记录，其他修改不会被合并
 -->
-
+- [nan-yy](https://github.com/nan-yy) 已学习 - 2026-05-15
 - [Waveshare-wulu](https://github.com/Waveshare-wulu) 已学习 - 2026-03-18
 - [droidPOP](https://github.com/droidPOP) 已学习 - 2026-03-22
 - [litiangu](https://github.com/litiangu) 已学习 - 2026-03-22
