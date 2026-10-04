@@ -73,3 +73,4 @@
 - [yisifw](https://github.com/yisifw) 已学习 - 2026-08-02
 - [yeanran9](https://github.com/yeanran9) 已学习 - 2026-08-02
 - [fuckhall](https://github.com/fuckhall) 已学习 - 2026-09-17
+- [dufffg](https://github.com/dufffg) 已学习 - 2026-10-04
