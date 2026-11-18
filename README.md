@@ -74,3 +74,4 @@
 - [yeanran9](https://github.com/yeanran9) 已学习 - 2026-08-02
 - [fuckhall](https://github.com/fuckhall) 已学习 - 2026-09-17
 - [dufffg](https://github.com/dufffg) 已学习 - 2026-10-04
+- [juanxincai](https://github.com/juanxincai24)已学习 - 2026-11-18
